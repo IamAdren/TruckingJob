@@ -1,0 +1,14 @@
+{
+  "name": "trucking",
+  "version": "1.0.0",
+  "description": "A database driven trucking job for fivem",
+  "main": "server/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacobie (IamAdren)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:vecchiotom/discord.js"
+  }
+}
